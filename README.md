@@ -1,4 +1,4 @@
-# Welcome
-Welcome to my page!
-I specialize in Discord.js, LUA, and basic HTML.
-However I am always learning everyday!
+<p align="center">
+	<a href="https://github.com/terrytangyuan"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/noah_alhandy"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
+
